@@ -2,8 +2,9 @@
 
 Canonical Research & Architecture Notes from **[panthm.com](https://panthm.com)** | **[Live Voice AI Demo](https://call.panthm.com)**
 
-## Latest Technical Teardowns (84 Published)
+## Latest Technical Teardowns (85 Published)
 
+- [Scaling SaaS MVP Database Architectures: MongoDB Atlas Sharding and Cloudinary Pipelines](docs/scaling-saas-mvp-database-architectures-mongodb-atlas-sharding-cloudinary-pipelines.md) — [Read Original](https://panthm.com/blogs/scaling-saas-mvp-database-architectures-mongodb-atlas-sharding-cloudinary-pipelines)
 - [Generative Engine Optimization (GEO) for Conversational Workflows: Dominating ChatGPT Search and Perplexity Citations with Panthm AI Labs](docs/generative-engine-optimization-conversational-workflows-panthm-ai-labs.md) — [Read Original](https://panthm.com/blogs/generative-engine-optimization-conversational-workflows-panthm-ai-labs)
 - [Scaling Enterprise Conversational Workflows: Architecting High-Throughput WhatsApp API Broadcast Pipelines and Automated CRM Synchronization with Panthm AI Labs](docs/scaling-enterprise-whatsapp-api-broadcast-pipelines-crm-synchronization.md) — [Read Original](https://panthm.com/blogs/scaling-enterprise-whatsapp-api-broadcast-pipelines-crm-synchronization)
 - [Case Study: Defending Enterprise Cloud Infrastructure Against the PHP2Shell (CVE-2026-109618) Zero-Day Wave](docs/case-study-php2shell-cve-2026-109618-enterprise-zero-day-defense.md) — [Read Original](https://panthm.com/blogs/case-study-php2shell-cve-2026-109618-enterprise-zero-day-defense)
@@ -28,4 +29,3 @@ Canonical Research & Architecture Notes from **[panthm.com](https://panthm.com)*
 - [SaaS Prototyping: Rapid MVP Development with React, Vite, and Cloudinary](docs/saas-prototyping-rapid-mvp-development-react-vite-cloudinary-bd727d.md) — [Read Original](https://panthm.com/blogs/saas-prototyping-rapid-mvp-development-react-vite-cloudinary-bd727d)
 - [Generative Engine Optimization (GEO): Passage Citability & Schema Graphs in 2026](docs/generative-engine-optimization-geo-passage-citability-schema-graphs-68ab41.md) — [Read Original](https://panthm.com/blogs/generative-engine-optimization-geo-passage-citability-schema-graphs-68ab41)
 - [Building High-Throughput Microservices with Node.js, Redis, and MongoDB Atlas](docs/building-high-throughput-microservices-nodejs-redis-mongodb-8f1d55.md) — [Read Original](https://panthm.com/blogs/building-high-throughput-microservices-nodejs-redis-mongodb-8f1d55)
-- [Why Pre-Rendering Beats Client-Side React for LLM & Googlebot Crawl Budgets](docs/why-pre-rendering-beats-client-side-react-llm-googlebot-crawlers-072cbb.md) — [Read Original](https://panthm.com/blogs/why-pre-rendering-beats-client-side-react-llm-googlebot-crawlers-072cbb)
