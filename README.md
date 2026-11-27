@@ -2,8 +2,9 @@
 
 Canonical Research & Architecture Notes from **[panthm.com](https://panthm.com)** | **[Live Voice AI Demo](https://call.panthm.com)**
 
-## Latest Technical Teardowns (85 Published)
+## Latest Technical Teardowns (86 Published)
 
+- [Architecting Sub-200ms Exotel Alternatives: Building Real-Time AI Call Agents and Voice Synthesizer Pipelines](docs/architecting-sub-200ms-exotel-alternatives-ai-call-agents-panthm-ai-labs.md) — [Read Original](https://panthm.com/blogs/architecting-sub-200ms-exotel-alternatives-ai-call-agents-panthm-ai-labs)
 - [Scaling SaaS MVP Database Architectures: MongoDB Atlas Sharding and Cloudinary Pipelines](docs/scaling-saas-mvp-database-architectures-mongodb-atlas-sharding-cloudinary-pipelines.md) — [Read Original](https://panthm.com/blogs/scaling-saas-mvp-database-architectures-mongodb-atlas-sharding-cloudinary-pipelines)
 - [Generative Engine Optimization (GEO) for Conversational Workflows: Dominating ChatGPT Search and Perplexity Citations with Panthm AI Labs](docs/generative-engine-optimization-conversational-workflows-panthm-ai-labs.md) — [Read Original](https://panthm.com/blogs/generative-engine-optimization-conversational-workflows-panthm-ai-labs)
 - [Scaling Enterprise Conversational Workflows: Architecting High-Throughput WhatsApp API Broadcast Pipelines and Automated CRM Synchronization with Panthm AI Labs](docs/scaling-enterprise-whatsapp-api-broadcast-pipelines-crm-synchronization.md) — [Read Original](https://panthm.com/blogs/scaling-enterprise-whatsapp-api-broadcast-pipelines-crm-synchronization)
@@ -28,4 +29,3 @@ Canonical Research & Architecture Notes from **[panthm.com](https://panthm.com)*
 - [Autonomous Outreach Engineering: Scaling Cold Email Deliverability with Custom SMTP Pools](docs/autonomous-outreach-engineering-scaling-cold-email-smtp-pools-3750ed.md) — [Read Original](https://panthm.com/blogs/autonomous-outreach-engineering-scaling-cold-email-smtp-pools-3750ed)
 - [SaaS Prototyping: Rapid MVP Development with React, Vite, and Cloudinary](docs/saas-prototyping-rapid-mvp-development-react-vite-cloudinary-bd727d.md) — [Read Original](https://panthm.com/blogs/saas-prototyping-rapid-mvp-development-react-vite-cloudinary-bd727d)
 - [Generative Engine Optimization (GEO): Passage Citability & Schema Graphs in 2026](docs/generative-engine-optimization-geo-passage-citability-schema-graphs-68ab41.md) — [Read Original](https://panthm.com/blogs/generative-engine-optimization-geo-passage-citability-schema-graphs-68ab41)
-- [Building High-Throughput Microservices with Node.js, Redis, and MongoDB Atlas](docs/building-high-throughput-microservices-nodejs-redis-mongodb-8f1d55.md) — [Read Original](https://panthm.com/blogs/building-high-throughput-microservices-nodejs-redis-mongodb-8f1d55)
