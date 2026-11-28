@@ -2,8 +2,9 @@
 
 Canonical Research & Architecture Notes from **[panthm.com](https://panthm.com)** | **[Live Voice AI Demo](https://call.panthm.com)**
 
-## Latest Technical Teardowns (86 Published)
+## Latest Technical Teardowns (87 Published)
 
+- [Scaling Sales Outreach Pipelines: Autonomous Lead Generation Scrapers and AI CRM Analytics](docs/scaling-sales-outreach-pipelines-autonomous-lead-generation-scrapers-ai-crm-analytics.md) — [Read Original](https://panthm.com/blogs/scaling-sales-outreach-pipelines-autonomous-lead-generation-scrapers-ai-crm-analytics)
 - [Architecting Sub-200ms Exotel Alternatives: Building Real-Time AI Call Agents and Voice Synthesizer Pipelines](docs/architecting-sub-200ms-exotel-alternatives-ai-call-agents-panthm-ai-labs.md) — [Read Original](https://panthm.com/blogs/architecting-sub-200ms-exotel-alternatives-ai-call-agents-panthm-ai-labs)
 - [Scaling SaaS MVP Database Architectures: MongoDB Atlas Sharding and Cloudinary Pipelines](docs/scaling-saas-mvp-database-architectures-mongodb-atlas-sharding-cloudinary-pipelines.md) — [Read Original](https://panthm.com/blogs/scaling-saas-mvp-database-architectures-mongodb-atlas-sharding-cloudinary-pipelines)
 - [Generative Engine Optimization (GEO) for Conversational Workflows: Dominating ChatGPT Search and Perplexity Citations with Panthm AI Labs](docs/generative-engine-optimization-conversational-workflows-panthm-ai-labs.md) — [Read Original](https://panthm.com/blogs/generative-engine-optimization-conversational-workflows-panthm-ai-labs)
@@ -28,4 +29,3 @@ Canonical Research & Architecture Notes from **[panthm.com](https://panthm.com)*
 - [Vector Databases & RAG Architecture for Enterprise Knowledge Systems](docs/vector-databases-rag-architecture-enterprise-knowledge-systems-9122bc.md) — [Read Original](https://panthm.com/blogs/vector-databases-rag-architecture-enterprise-knowledge-systems-9122bc)
 - [Autonomous Outreach Engineering: Scaling Cold Email Deliverability with Custom SMTP Pools](docs/autonomous-outreach-engineering-scaling-cold-email-smtp-pools-3750ed.md) — [Read Original](https://panthm.com/blogs/autonomous-outreach-engineering-scaling-cold-email-smtp-pools-3750ed)
 - [SaaS Prototyping: Rapid MVP Development with React, Vite, and Cloudinary](docs/saas-prototyping-rapid-mvp-development-react-vite-cloudinary-bd727d.md) — [Read Original](https://panthm.com/blogs/saas-prototyping-rapid-mvp-development-react-vite-cloudinary-bd727d)
-- [Generative Engine Optimization (GEO): Passage Citability & Schema Graphs in 2026](docs/generative-engine-optimization-geo-passage-citability-schema-graphs-68ab41.md) — [Read Original](https://panthm.com/blogs/generative-engine-optimization-geo-passage-citability-schema-graphs-68ab41)
